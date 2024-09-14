@@ -1,0 +1,16 @@
+Package: com.liuf.zfk
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./zfk.deb
+Size: 15948
+MD5sum: b60ec47cdf117cb8aee18213378007ae
+SHA1: 627e229d276b55799f0cb591880dfb298a41460f
+SHA256: 0318c66438285583add601cba99387b7764461b888d381bd81d81578d6d7fce5
+Section: Tweaks
+Description: 将控制中心主副卡显示为自己喜欢的图片 可自定义 有设置项可自定义高低上下!
+Author: liuf <1602389262>
+Name: 主副卡图片化
+
